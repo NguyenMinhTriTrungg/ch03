@@ -1,0 +1,9 @@
+.box-default{
+    border: 1 solid blue;
+    padding: 50px;
+    background-color: aqua;
+    width: 30%;
+    height: auto;
+    text-align: center;
+    margin: auto;    
+}

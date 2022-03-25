@@ -1,0 +1,23 @@
+.active{
+    background-color: blue;
+    
+}
+.ex1{
+    background-color: blue;
+}
+.ex2{
+    background-color: blue;
+}
+.ex3{
+    background-color: blue;
+}
+.ex4{
+    background-color: blue;
+}
+a:hover{
+    background-color: brown;
+}
+a{
+    text-decoration: none;
+    font-size: 35px;
+}
